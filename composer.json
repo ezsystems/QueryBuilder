@@ -1,0 +1,12 @@
+{
+    "name": "ezsystems/query-builder-api",
+    "authors": [
+        {
+            "name": "Bertrand Dunogier",
+            "email": "bd@ez.no"
+        }
+    ],
+    "require": {
+
+    }
+}
