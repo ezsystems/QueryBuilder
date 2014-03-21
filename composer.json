@@ -6,7 +6,9 @@
             "email": "bd@ez.no"
         }
     ],
-    "require": {
-
+    "autoload": {
+        "psr-0": {
+            "eZ\\Publish\\QueryBuilder\\": "src/"
+        }
     }
 }
